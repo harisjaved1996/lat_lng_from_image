@@ -1,1 +1,2 @@
-# lat_lng_from_image
+# Fetching-latitude-longitude-form-an-image
+Fetching latitude and longitude from an image using javascript
