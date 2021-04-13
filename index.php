@@ -61,7 +61,8 @@ img{
     <p>ISO SpeedRatings : <span id="iso"></span></p>
     <p>Shuttor Speed : <span id="stp"></span></p>
 </div>
-
+//<script src="https://unpkg.com/exif-js@2.2.1"></script>
+//use this library to get the exif data
     <script>
     (function () {
       
